@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://kaos.sh/g/ipinfo"><img src=".github/images/godoc.svg"/></a>
   <a href="https://kaos.sh/y/ipinfo"><img src="https://app.codacy.com/project/badge/Grade/664f1dd8189b47908942a2e875bb5e01" alt="Codacy badge" /></a>
-  <a href="https://kaos.sh/c/ipinfo"><img src="https://kaos.sh/c/ipinfo.svg" alt="Coverage Status" /></a>
+  <a href="https://kaos.sh/c/ipinfo"><img src="https://coveralls.io/repos/github/essentialkaos/ipinfo/badge.svg" alt="Coverage Status" /></a>
   <a href="https://kaos.sh/w/ipinfo/ci"><img src="https://github.com/essentialkaos/ipinfo/actions/workflows/ci.yml/badge.svg" alt="GitHub Actions CI Status" /></a>
   <a href="https://kaos.sh/w/ipinfo/codeql"><img src="https://github.com/essentialkaos/ipinfo/actions/workflows/codeql.yml/badge.svg" alt="GitHub Actions CodeQL Status" /></a>
   <a href="#license"><img src=".github/images/license.svg"/></a>
