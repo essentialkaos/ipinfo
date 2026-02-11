@@ -2,9 +2,10 @@
 
 <p align="center">
   <a href="https://kaos.sh/g/ipinfo"><img src=".github/images/godoc.svg"/></a>
-  <a href="https://coveralls.io/github/essentialkaos/ipinfo"><img src="https://kaos.sh/c/ipinfo.svg" alt="Coverage Status" /></a>
-  <a href="https://kaos.sh/w/ipinfo/ci"><img src="https://kaos.sh/w/ipinfo/ci.svg" alt="GitHub Actions CI Status" /></a>
-  <a href="https://kaos.sh/w/ipinfo/codeql"><img src="https://kaos.sh/w/ipinfo/codeql.svg" alt="GitHub Actions CodeQL Status" /></a>
+  <a href="https://kaos.sh/y/ipinfo"><img src="https://app.codacy.com/project/badge/Grade/664f1dd8189b47908942a2e875bb5e01" alt="Codacy badge" /></a>
+  <a href="https://kaos.sh/c/ipinfo"><img src="https://kaos.sh/c/ipinfo.svg" alt="Coverage Status" /></a>
+  <a href="https://kaos.sh/w/ipinfo/ci"><img src="https://github.com/essentialkaos/ipinfo/actions/workflows/ci.yml/badge.svg" alt="GitHub Actions CI Status" /></a>
+  <a href="https://kaos.sh/w/ipinfo/codeql"><img src="https://github.com/essentialkaos/ipinfo/actions/workflows/codeql.yml/badge.svg" alt="GitHub Actions CodeQL Status" /></a>
   <a href="#license"><img src=".github/images/license.svg"/></a>
 </p>
 
@@ -18,8 +19,8 @@
 
 | Branch | Status |
 |--------|----------|
-| `master` | [![CI](https://kaos.sh/w/ipinfo/ci.svg?branch=master)](https://kaos.sh/w/ipinfo/ci?query=branch:master) |
-| `develop` | [![CI](https://kaos.sh/w/ipinfo/ci.svg?branch=develop)](https://kaos.sh/w/ipinfo/ci?query=branch:develop) |
+| `master` | [![CI](https://kaos.sh/w/ipinfo/ci.svg?branch=master)](https://github.com/essentialkaos/ipinfo/actions/workflows/ci.yml?query=branch:master) |
+| `develop` | [![CI](https://kaos.sh/w/ipinfo/ci.svg?branch=develop)](https://github.com/essentialkaos/ipinfo/actions/workflows/ci.yml?query=branch:develop) |
 
 ### Contributing
 
